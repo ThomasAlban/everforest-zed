@@ -1,7 +1,10 @@
 {
-    "name": "Everforest",
-    "version": "0.0.1",
-    "authors": ["Sainnhe <https://github.com/sainnhe>", "Thomas Alban <https://github.com/ThomasAlban>"],
-    "description": "Everforest is a green based color scheme; it's designed to be warm and soft in order to protect developers' eyes.",
-    "repository": "https://github.com/ThomasAlban/everforest-zed"
-  }
+  "name": "Everforest",
+  "version": "0.0.2",
+  "authors": [
+    "Sainnhe <https://github.com/sainnhe>",
+    "Thomas Alban <https://github.com/ThomasAlban>"
+  ],
+  "description": "Everforest is a green based color scheme; it's designed to be warm and soft in order to protect developers' eyes.",
+  "repository": "https://github.com/ThomasAlban/everforest-zed"
+}
