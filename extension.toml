@@ -1,0 +1,7 @@
+name = "Everforest Theme"
+version = "0.0.3"
+authors = ["Sainnhe <https://github.com/sainnhe>","Thomas Alban <https://github.com/ThomasAlban>"]
+description = "Everforest is a green based color scheme; it's designed to be warm and soft in order to protect developers' eyes."
+repository = "https://github.com/ThomasAlban/everforest-zed"
+id = "everforest-theme"
+schema_version = 1
